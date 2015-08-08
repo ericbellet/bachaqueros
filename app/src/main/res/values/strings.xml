@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DAM-lab-android-2</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_list">Ejemplo List View</string>
+    <string name="title_activity_local_db">Ejemplo Local DB</string>
+</resources>
